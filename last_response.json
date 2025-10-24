@@ -1,0 +1,94 @@
+{
+  "title": "TWAP Strategy Response",
+  "response": {
+    "slices": [
+      {
+        "index": 1,
+        "response": {
+          "orderId": 6863241531,
+          "symbol": "BTCUSDT",
+          "status": "NEW",
+          "clientOrderId": "QWTgsomlKnIkRMH5oip5Ry",
+          "price": "0.00",
+          "avgPrice": "0.00",
+          "origQty": "0.001",
+          "executedQty": "0.000",
+          "cumQty": "0.000",
+          "cumQuote": "0.00000",
+          "timeInForce": "GTC",
+          "type": "MARKET",
+          "reduceOnly": false,
+          "closePosition": false,
+          "side": "BUY",
+          "positionSide": "BOTH",
+          "stopPrice": "0.00",
+          "workingType": "CONTRACT_PRICE",
+          "priceProtect": false,
+          "origType": "MARKET",
+          "priceMatch": "NONE",
+          "selfTradePreventionMode": "EXPIRE_MAKER",
+          "goodTillDate": 0,
+          "updateTime": 1761284526236
+        }
+      },
+      {
+        "index": 2,
+        "response": {
+          "orderId": 6863242689,
+          "symbol": "BTCUSDT",
+          "status": "NEW",
+          "clientOrderId": "xa5eT5dA4GeZ4n02XdUF3N",
+          "price": "0.00",
+          "avgPrice": "0.00",
+          "origQty": "0.001",
+          "executedQty": "0.000",
+          "cumQty": "0.000",
+          "cumQuote": "0.00000",
+          "timeInForce": "GTC",
+          "type": "MARKET",
+          "reduceOnly": false,
+          "closePosition": false,
+          "side": "BUY",
+          "positionSide": "BOTH",
+          "stopPrice": "0.00",
+          "workingType": "CONTRACT_PRICE",
+          "priceProtect": false,
+          "origType": "MARKET",
+          "priceMatch": "NONE",
+          "selfTradePreventionMode": "EXPIRE_MAKER",
+          "goodTillDate": 0,
+          "updateTime": 1761284526481
+        }
+      },
+      {
+        "index": 3,
+        "response": {
+          "orderId": 6863243548,
+          "symbol": "BTCUSDT",
+          "status": "NEW",
+          "clientOrderId": "U03shDOvE14XQEHD4GbR5p",
+          "price": "0.00",
+          "avgPrice": "0.00",
+          "origQty": "0.001",
+          "executedQty": "0.000",
+          "cumQty": "0.000",
+          "cumQuote": "0.00000",
+          "timeInForce": "GTC",
+          "type": "MARKET",
+          "reduceOnly": false,
+          "closePosition": false,
+          "side": "BUY",
+          "positionSide": "BOTH",
+          "stopPrice": "0.00",
+          "workingType": "CONTRACT_PRICE",
+          "priceProtect": false,
+          "origType": "MARKET",
+          "priceMatch": "NONE",
+          "selfTradePreventionMode": "EXPIRE_MAKER",
+          "goodTillDate": 0,
+          "updateTime": 1761284526754
+        }
+      }
+    ]
+  }
+}
